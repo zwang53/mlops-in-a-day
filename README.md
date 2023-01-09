@@ -22,6 +22,5 @@
 * MLOps on Azure DevOps
   * :weight_lifting_woman: 实验三：通过Azure DevOps 部署pipeline - [`devops-deploy-simple-pipeline`](devops-deploy-simple-pipeline/)
   * :weight_lifting_woman: 实验四：使用Azure DevOps 实现实验的部署和测试 - [`devops-deploy-pipeline-with-tests`](devops-deploy-pipeline-with-tests/)
-* Model Deployment using Python
-  * :weight_lifting_woman: 实验五：部署模型到AKS - [`python-model-deployment`](python-model-deployment/)
+
 
